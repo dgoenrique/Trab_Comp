@@ -1,3 +1,7 @@
+/*
+Diego Enrique da Silva Lima 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
